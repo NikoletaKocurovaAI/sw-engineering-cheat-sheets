@@ -166,6 +166,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+.DS_Store
 
 # PyPI configuration file
 .pypirc
+
+# Custom files
+architectural_patterns_rework.png
+1_notes_code_quality.md
+5_notes_oo_design.md
+6_notes_design_patterns.md
+7_notes_system_design.md
+8_notes_architectural_patterns.md
+99_notes.txt
