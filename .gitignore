@@ -172,8 +172,13 @@ cython_debug/
 .pypirc
 
 # Custom files
-architectural_patterns_rework.png
+5a_oo_design_rework.jpg
+5b_oo_design_rework.jpg
+8a_architectural_patterns_rework.png
+98a_other_rework.jpg
+98b_other_rework.jpg
 1_notes_code_quality.md
+2_notes_environment.md
 5_notes_oo_design.md
 6_notes_design_patterns.md
 7_notes_system_design.md
