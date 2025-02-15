@@ -171,16 +171,55 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Custom files
+# Custom Rework Files - DO NOT COMMIT
+1a_code_quality_rework.jpg
+1b_code_quality_rework.jpg
+2a_environment_rework.jpg
+2b_environment_rework.jpg
+2c_environment_rework.jpg
+2d_environment_rework.jpg
+2e_environment_rework.jpg
 5a_oo_design_rework.jpg
 5b_oo_design_rework.jpg
+6a_design_patterns_rework.jpg
 8a_architectural_patterns_rework.png
+9a_database_design_rework.jpg
+9b_database_design_rework.jpg
+11a_testing_rework.jpg
+13a_web_services_rework.jpg
+13b_web_services_rework.jpg
+13c_web_services_rework.jpg
+13d_web_services_rework.jpg
+14a_git_rework.jpg
+14b_git_rework.jpg
+14c_git_rework.jpg
+16a_kubernetes_rework.jpg
+16b_kubernetes_rework.jpg
 98a_other_rework.jpg
 98b_other_rework.jpg
+
+pdfs/
+
 1_notes_code_quality.md
 2_notes_environment.md
 5_notes_oo_design.md
 6_notes_design_patterns.md
 7_notes_system_design.md
 8_notes_architectural_patterns.md
+9_notes_database_design.md
+11_notes_testing.md
+12_notes_api_design.md
+17_notes_documentation.md
+
 99_notes.txt
+
+# Custom File - TO BE COMMITED
+9_database_design.md
+10_error_handling.md
+11_testing.md
+12_api_design.md
+13_notes_web_services.md
+13_web_services.md
+14_git.md
+15_docker.md
+16_kubernetes.md
