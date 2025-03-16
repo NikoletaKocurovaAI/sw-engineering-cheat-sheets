@@ -179,6 +179,13 @@ cython_debug/
 2c_environment_rework.jpg
 2d_environment_rework.jpg
 2e_environment_rework.jpg
+3a_data_structures_rework.jpg
+3b_data_structures_rework.jpg
+3c_data_structures_rework.jpg
+3d_data_structures_rework.jpg
+4a_algorithms_rework.jpg
+4b_algorithms_rework.jpg
+4c_algorithms_rework.jpg
 5a_oo_design_rework.jpg
 5b_oo_design_rework.jpg
 6a_design_patterns_rework.jpg
@@ -190,9 +197,11 @@ cython_debug/
 13b_web_services_rework.jpg
 13c_web_services_rework.jpg
 13d_web_services_rework.jpg
+13e_web_services_rework.jpg
 14a_git_rework.jpg
 14b_git_rework.jpg
 14c_git_rework.jpg
+15a_docker_rework.jpg
 16a_kubernetes_rework.jpg
 16b_kubernetes_rework.jpg
 98a_other_rework.jpg
@@ -202,6 +211,7 @@ pdfs/
 
 1_notes_code_quality.md
 2_notes_environment.md
+3_data_structures_notes.md
 5_notes_oo_design.md
 6_notes_design_patterns.md
 7_notes_system_design.md
